@@ -1,2 +1,7 @@
-# AI-Business-Intelligence-Internship
-'AI-powered business intelligence internship project - TNM Software Solutions Pvt. Ltd.'
+# TNM AI Business Intelligence Internship Project
+## Project Overview
+[2–3 sentences: what this project is and what business problem it addresses]
+## Objectives
+- [Objective 1]
+- [Objective 2]
+- [Objective 3]
