@@ -1,7 +1,13 @@
-# TNM AI Business Intelligence Internship Project
+# AI Business Intelligence Internship
+
 ## Project Overview
-[2–3 sentences: what this project is and what business problem it addresses]
+
+This repository contains my work completed during the AI Business Intelligence Internship at TNM Software Solutions Pvt. Ltd. During this internship, I will learn how to use Power BI to analyse business data, create interactive dashboards, and generate meaningful insights. I will also document my learning and progress throughout the internship.
+
 ## Objectives
-- [Objective 1]
-- [Objective 2]
-- [Objective 3]
+
+- Learn how to use Power BI Desktop for data analysis and visualisation.
+- Clean and prepare datasets for analysis.
+- Create interactive dashboards and reports.
+- Improve my business intelligence and analytical skills.
+- Document my work and learning throughout the internship.
