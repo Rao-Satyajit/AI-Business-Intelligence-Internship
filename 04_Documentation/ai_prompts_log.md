@@ -28,3 +28,23 @@ Five business questions:
 3. How do discounts affect profit?
 4. Which customers generate the most revenue?
 5. Which products perform the best?
+
+
+
+## Prompt
+
+Act as a Senior Data Analyst. My dataset has: all checked columns show 100% valid values with 0% errors and 0% empty values. Order ID has repeated values, with 673 distinct values and 450 unique values. Sales has no negative values, and Profit contains some negative values. For each issue, suggest whether to remove, fill, or flag the affected rows, and explain the business risk of getting it wrong.
+
+## AI Response
+
+Based on the data quality checks, I would recommend the following:
+
+1. *Missing values and errors:* No missing values or errors were found in the checked columns, so there is currently nothing that needs to be removed or filled. This is good because changing valid data unnecessarily could create incorrect information.
+
+2. *Repeated Order IDs:* The repeated Order IDs should not be removed because one order can contain multiple products and therefore appear on more than one row. Removing these rows could result in losing valid sales information.
+
+3. *Sales values:* No negative Sales values were found, so there is no immediate need to remove or change any Sales records. Incorrectly changing sales values could affect the accuracy of revenue analysis.
+
+4. *Negative Profit:* Negative Profit values should be kept because they can represent transactions where the business made a loss. Removing them would give an unrealistic view of the company's actual profitability.
+
+5. *Overall recommendation:* The identified values should be reviewed during the cleaning stage rather than automatically removed. The main risk is that removing valid records could lead to inaccurate sales and profit analysis.
