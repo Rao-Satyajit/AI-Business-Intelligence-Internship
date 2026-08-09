@@ -18,7 +18,7 @@ I checked the dataset in Power Query for missing values, errors, duplicate-looki
 No major changes are needed right now because I did not find any actual errors in the data. I will check these values again during the cleaning process and keep the repeated Order IDs and negative Profit values unless I find that they are incorrect.
 
 
-## Results of the Cleaning Process
+## Data Cleaning Process
 
 | Issues Checked | Findings | Resolved |
 |---|---|---|
