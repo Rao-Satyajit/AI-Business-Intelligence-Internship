@@ -9,3 +9,5 @@ Day-3: Downloaded the Global Superstore dataset from Kaggle and uploaded the raw
 Day-4: Learned how to check the quality of a dataset using Power Query. I checked for missing values, errors, repeated Order IDs, and unusual Sales and Profit values. All the checked columns were valid, and I did not find any unusual or obvious errors that needed to be fixed. I also learned that repeated Order IDs and negative Profit values can be normal in a business dataset.
 
 Day-5: Learned the basics of Power BI and explored the Report, Data, and Model views. I loaded the Global Superstore dataset and explored the Fields pane. I saved my Power BI file and took a screenshot of the Report view and uploaded both, the file and the screenshot in my repository.
+
+Day-6: Learned how to clean and prepare data using Power Query. I checked for duplicate rows, missing values, and correct data types however, no duplicate rows or missing values were found. I then exported the cleaned dataset as a CSV file, uploaded the cleaned files to GitHub, and updated the data quality report with my findings.
