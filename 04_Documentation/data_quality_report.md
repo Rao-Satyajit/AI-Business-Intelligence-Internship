@@ -16,3 +16,13 @@ I checked the dataset in Power Query for missing values, errors, duplicate-looki
 ## Planned Fix
 
 No major changes are needed right now because I did not find any actual errors in the data. I will check these values again during the cleaning process and keep the repeated Order IDs and negative Profit values unless I find that they are incorrect.
+
+
+## Results of the Cleaning Process
+
+| Issues Checked | Findings | Resolved |
+|---|---|---|
+| Missing values | No significant missing values observed | No changes required |
+| Duplicate rows | 51,290 rows before and after duplicate removal | No duplicate rows removed |
+| Data types | Data types were checked and corrected where needed | Correct data types applied |
+| Column names | Column names reviewed for clarity | No major changes required |
