@@ -11,3 +11,9 @@ Day-4: Learned how to check the quality of a dataset using Power Query. I checke
 Day-5: Learned the basics of Power BI and explored the Report, Data, and Model views. I loaded the Global Superstore dataset and explored the Fields pane. I saved my Power BI file and took a screenshot of the Report view and uploaded both, the file and the screenshot in my repository.
 
 Day-6: Learned how to clean and prepare data using Power Query. I checked for duplicate rows, missing values, and correct data types however, no duplicate rows or missing values were found. I then exported the cleaned dataset as a CSV file, uploaded the cleaned files to GitHub, and updated the data quality report with my findings.
+
+Day-7: Completed Today: Built a star schema in Power BI by separating the main dataset into fact and dimension tables. Created Customer, Product, Region, and DateTable dimensions, and established one to many relationships with the Global Superstore fact table. Also arranged the tables in Model view for a clear star-schema structure.
+
+Reflection: Today, I learned how fact and dimension tables work together in a Power BI data model. I also learned how relationships help connect the tables and make the data easier to analyse and filter.
+
+GitHub: Uploaded the Day-7 model screenshot and updated the documentation.
