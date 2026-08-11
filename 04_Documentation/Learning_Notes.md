@@ -17,3 +17,10 @@ Day-7: Completed Today: Built a star schema in Power BI by separating the main d
 Reflection: Today, I learned how fact and dimension tables work together in a Power BI data model. I also learned how relationships help connect the tables and make the data easier to analyse and filter.
 
 GitHub: Uploaded the Day-7 model screenshot and updated the documentation.
+
+
+Day-8: Completed Today: Created a dedicated DAX_Measures table and created the required measures: Total Sales, Total Profit, Total Orders, Average Order Value, and Profit Margin %. I also tested the measures using Card visuals and confirmed that they are working correctly.
+
+Reflection: Today, I learned the difference between calculated columns and measures in Power BI and understood how measures calculate dynamically based on filters. I also learned how to use DAX functions such as SUM and DIVIDE and how to format measures as currency, percentage, and whole numbers. Testing the measures with Card visuals helped me verify that the calculations were producing sensible results.
+
+GitHub: Created dax_measures.md inside 04_Documentation with the DAX formulae and explanations.
