@@ -48,3 +48,72 @@ Based on the data quality checks, I would recommend the following:
 4. *Negative Profit:* Negative Profit values should be kept because they can represent transactions where the business made a loss. Removing them would give an unrealistic view of the company's actual profitability.
 
 5. *Overall recommendation:* The identified values should be reviewed during the cleaning stage rather than automatically removed. The main risk is that removing valid records could lead to inaccurate sales and profit analysis.
+
+
+## Prompt
+
+Design a 4-page Power BI dashboard for a CEO and their team, using these KPIs: Total Sales, Total Profit, Total Orders, Average Order Value, Profit Margin, and these dimensions: Region, Category, Product, Customer, Date. Page 1 is an Executive Summary, Page 2 is Sales Analysis, Page 3 is Customer Insights, Page 4 is Product Performance. For each page, suggest which visuals fit and where they should sit.
+
+## AI Response
+
+Page 1 — Executive Summary
+
+Purpose: Give the CEO a quick overview of overall business performance.
+
+KPIs:
+
+* Total Sales
+* Total Profit
+* Total Orders
+* Average Order Value
+
+Suggested layout:
+
+* Place four KPI Card visuals across the top.
+* Place a Line Chart below the cards showing Total Sales over time using Date/Month.
+* Place a Map showing Total Sales by Region or Country.
+* Place Region and Date/Year slicers on the left or top for easy filtering.
+
+Main question answered: How is the business performing overall, and how are sales changing over time and across regions?
+
+Page 2 — Sales Analysis
+
+Purpose: Understand sales performance by category, region, and time.
+
+Suggested layout:
+
+* Clustered Column Chart showing Total Sales by Category.
+* Line Chart showing Total Sales over time, with Category as the legend.
+* Table showing Region, Total Sales, Total Profit, and Average Order Value.
+* Copy the Region and Date/Year slicers from Page 1.
+
+Main question answered: Which categories and regions are performing best, and how are sales changing over time?
+
+Page 3 — Customer Insights
+
+Purpose: Understand the most valuable customers and customer segments.
+
+Suggested layout:
+
+* Table showing the Top 5 Customers by Total Sales.
+* Donut Chart showing Total Sales by Customer Segment.
+* Card showing Average Order Value.
+* Clustered Bar Chart showing Total Orders by Customer Segment.
+
+Main question answered: Which customers and customer segments contribute most to sales and orders?
+
+Page 4 — Product Performance
+
+Purpose: Identify the best-selling and most profitable products and categories.
+
+Suggested layout:
+
+* Table showing the Top 10 Products by Total Sales.
+* Bar Chart showing Profit Margin % by Category.
+* Treemap or Clustered Column Chart showing Total Sales by Sub-Category.
+
+Main question answered: Which products and categories generate the most sales, and which are the most profitable?
+
+Overall Dashboard Design
+
+All four pages should use a consistent theme, font style, title format, and visual alignment. KPI cards should be placed near the top of relevant pages so important numbers are immediately visible. Slicers should be placed consistently, and visuals should be aligned neatly to make the dashboard easy for a CEO or manager to understand and use.
