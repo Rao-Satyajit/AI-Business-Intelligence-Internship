@@ -24,3 +24,9 @@ Day-8: Completed Today: Created a dedicated DAX_Measures table and created the r
 Reflection: Today, I learned the difference between calculated columns and measures in Power BI and understood how measures calculate dynamically based on filters. I also learned how to use DAX functions such as SUM and DIVIDE and how to format measures as currency, percentage, and whole numbers. Testing the measures with Card visuals helped me verify that the calculations were producing sensible results.
 
 GitHub: Created dax_measures.md inside 04_Documentation with the DAX formulae and explanations.
+
+Day-9: Completed Today: Designed and built a four-page Power BI dashboard consisting of Executive Summary, Sales Analysis, Customer Insights, and Product Performance pages. Added KPI cards, charts, tables, slicers, and filters to analyse sales, customers, regions, categories, and products.
+
+Reflection: Today, I learned how to plan a dashboard based on business requirements and choose suitable visuals for different types of analysis. I also learned how to use slicers and Top N filters to make the report interactive and focus on the most important customers and products. Finally, I applied consistent formatting and organised the dashboard so that key business insights can be understood more easily.
+
+GitHub: Uploaded the Day 9 dashboard screenshots and updated the Power BI project file on GitHub.
