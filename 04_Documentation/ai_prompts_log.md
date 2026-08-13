@@ -117,3 +117,35 @@ Main question answered: Which products and categories generate the most sales, a
 Overall Dashboard Design
 
 All four pages should use a consistent theme, font style, title format, and visual alignment. KPI cards should be placed near the top of relevant pages so important numbers are immediately visible. Slicers should be placed consistently, and visuals should be aligned neatly to make the dashboard easy for a CEO or manager to understand and use.
+
+## Prompt
+
+Act as a Senior BI Consultant. Review these four dashboard pages (Executive Summary, Sales Analysis, Customer Insights, Product Performance). Score the overall report out of 10. Identify 5 specific things that are unclear, cluttered, or could confuse a stakeholder, and suggest a concrete fix for each. Then suggest more executive-friendly rewrites for any chart or page title that sounds too technical.
+
+## AI Response
+
+Overall Score: 8/10
+
+1. Executive Summary could be more polished
+    Some KPI cards may show too many decimal places.
+    Fix: Round values and use appropriate display units such as K/M.
+2. Sales Analysis table is slightly cluttered
+    The table contains many rows and long decimal values.
+    Fix: Reduce decimal places and keep the most important fields visible.
+3. Some chart labels are truncated
+    Category, city, and other labels may not be fully visible.
+    Fix: Resize visuals or use shorter titles/labels.
+4. Customer Insights could have clearer emphasis
+    The top-customer table is useful, but the key insight is not immediately obvious.
+    Fix: Keep the Top 5 table and use a clearer title such as “Top 5 Customers by Sales.”
+5. Product Performance could use clearer titles
+    Some titles are descriptive but could be more executive-friendly.
+    Fix: Use titles such as “Sales by Product Category” and “Profitability by Category.”
+
+Executive-Friendly Title Suggestions
+
+* Total Sales by Category → Sales by Category
+* Total Sales by Month → Monthly Sales Trend
+* Total Sales by City → Sales by City
+* Profit Margin % by Category → Profitability by Category
+* Total Sales by Sub-Category → Sales by Sub-Category
