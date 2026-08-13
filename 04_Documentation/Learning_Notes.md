@@ -30,3 +30,9 @@ Day-9: Completed Today: Designed and built a four-page Power BI dashboard consis
 Reflection: Today, I learned how to plan a dashboard based on business requirements and choose suitable visuals for different types of analysis. I also learned how to use slicers and Top N filters to make the report interactive and focus on the most important customers and products. Finally, I applied consistent formatting and organised the dashboard so that key business insights can be understood more easily.
 
 GitHub: Uploaded the Day 9 dashboard screenshots and updated the Power BI project file on GitHub.
+
+Day-10: Completed Today: I reviewed all four Power BI dashboard pages using AI feedback and identified areas that could be improved. I corrected formatting issues, improved KPI readability, fixed the month sorting, and adjusted the dashboard layout where required. I also created the dashboard iteration notes and took updated screenshots showing the improved version of the report.
+
+Reflection: Today, I learned how to use AI feedback to improve a Power BI dashboard without blindly applying every suggestion. I learned the importance of clear formatting, readable KPIs, correct sorting, consistent layouts, and executive-friendly presentation. I also understood how comparing before-and-after versions can help evaluate improvements in a BI report.
+
+GitHub: Uploaded the updated dashboard screenshots, dashboard iteration notes, and Power BI file.
