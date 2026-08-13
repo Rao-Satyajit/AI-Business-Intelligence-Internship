@@ -1,25 +1,17 @@
 # Dashboard Iteration Notes
 
-## AI Review Score
-Overall score: 8/10
+## AI Review
+The four dashboard pages were reviewed using AI feedback. The overall report was assessed for clarity, consistency, readability, and executive usefulness.
 
-## Must Fix
-1. Reduce excessive decimal places on KPI cards and tables.
-2. Fix truncated KPI values by adjusting card sizes.
-3. Improve chart and table readability by adjusting sizes and spacing.
+## Changes Made
+- Reduced unnecessary decimal places in KPI cards.
+- Improved the Average Order Value display for better readability.
+- Improved chart and visual alignment across the report.
+- Checked page titles and visual titles for clearer business meaning.
+- Applied formatting changes consistently across the dashboard pages.
 
-## Nice to Have
-1. Use more executive-friendly chart titles.
-2. Improve alignment and spacing between visuals.
+## Changes Not Made
+Some AI suggestions were not applied because the existing visuals were still relevant to the project requirements and removing them would reduce the information available to users.
 
-## Disagree
-I did not make major changes to the existing visual types because the current visuals communicate the required business information clearly.
-
-## Changes Applied
-- Improved KPI number formatting.
-- Adjusted visual sizes and positioning.
-- Improved readability of dashboard elements.
-- Updated titles where necessary.
-
-## Changes Not Applied
-The existing chart types were kept because they are suitable for the required analysis and audience.
+## Final Result
+The dashboard was reviewed and refined based on AI feedback while keeping the original business requirements and required visuals intact.
