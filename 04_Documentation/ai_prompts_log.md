@@ -149,3 +149,20 @@ Executive-Friendly Title Suggestions
 * Total Sales by City → Sales by City
 * Profit Margin % by Category → Profitability by Category
 * Total Sales by Sub-Category → Sales by Sub-Category
+
+## Prompt
+
+Write ten executive insights across these four dashboard pages. Each insight should name a specific number, a specific trend, and a suggested business action.
+
+## AI Response
+
+1. Total Sales: The business generated $12.64M in total sales, indicating strong overall sales performance. Management should focus on maintaining this momentum while identifying opportunities for further growth.
+2. Total Profit: Total profit stands at approximately $1.47M, showing that the business is generating positive returns. Management should continue monitoring costs and product profitability to protect margins.
+3. Consumer Segment: The Consumer segment contributes approximately $6.5M, or 51.48% of total sales, making it the largest segment. The business should prioritize customer retention and targeted promotions for this segment.
+4. Corporate Segment: Corporate customers generate approximately $3.8M, or 30.25% of sales. Management should develop targeted corporate offers to increase this segment’s contribution.
+5. Home Office Segment: Home Office contributes approximately $2.3M, or 18.27% of sales, making it the smallest segment. The business should explore targeted campaigns to increase Home Office spending.
+6. Average Order Value: The average order value is $505.01. Management should explore cross-selling and bundled products to increase the value of individual orders.
+7. Top Products: The displayed top products generate approximately $620,736 in combined sales. The business should maintain availability of these high-performing products and identify similar products with growth potential.
+8. Category Sales: Technology is the highest-selling category, ahead of Furniture and Office Supplies. Management should investigate the factors driving Technology’s stronger performance and apply successful strategies to other categories.
+9. Profit Margin: Technology has the highest profit margin at roughly 14%, while Furniture is around 7%. Management should review Furniture pricing, costs, and product mix to improve profitability.
+10. Monthly Sales: Sales fluctuate considerably throughout the year, with November and December showing strong sales compared with weaker months such as February. Management should prepare inventory and marketing campaigns ahead of high-demand periods while strengthening weaker months.
