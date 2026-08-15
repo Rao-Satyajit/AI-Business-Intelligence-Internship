@@ -53,3 +53,10 @@ Completed Today: I used AI to generate business insights from my four Power BI d
 Reflection: Today, I learned how to turn dashboard data into useful business insights instead of just looking at numbers. I also learned that a good insight should include a clear number or trend and suggest an action that could help the business.
 
 GitHub: Created and added business_insights.md inside 04_Documentation with the final five business insights.
+
+### Day-12
+Completed Today: I created a complete business report using my previous project notes, dashboard insights, data quality findings, and data model. I organized the report into an Executive Summary, Business Problem, Data & Methodology, Key Insights, Limitations, and Recommended Next Steps. I also reviewed the report to make sure it was clear and easy to understand.
+
+Reflection: Today, I learned how to bring different parts of a BI project together into one clear business report. I also learned that a good report should explain the findings in simple business language and focus on what the results mean for decision-making.
+
+GitHub: Created and added business_report.md inside 04_Documentation and committed the completed business report to GitHub.
