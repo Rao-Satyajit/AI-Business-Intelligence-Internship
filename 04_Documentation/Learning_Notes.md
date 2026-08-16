@@ -60,3 +60,10 @@ Completed Today: I created a complete business report using my previous project 
 Reflection: Today, I learned how to bring different parts of a BI project together into one clear business report. I also learned that a good report should explain the findings in simple business language and focus on what the results mean for decision-making.
 
 GitHub: Created and added business_report.md inside 04_Documentation and committed the completed business report to GitHub.
+
+### Day-13
+Completed Today: I created a 10-slide executive presentation based on my five final business insights. I added relevant screenshots from my Power BI dashboard to support the insights and kept the presentation simple and professional. I also added recommendations, a Thank You/Questions slide, and my GitHub repository link.
+
+Reflection: Today, I learned how to present a BI project in a clear way for an executive audience. I also learned that a good presentation should focus on the most important findings, support them with real dashboard visuals, and keep the slides simple rather than adding too much information.
+
+GitHub: Created the final BI_Executive_Presentation.pptx and exported it as BI_Executive_Presentation.pdf and uploaded it in 06_Presentation folder.
