@@ -166,3 +166,79 @@ Write ten executive insights across these four dashboard pages. Each insight sho
 8. Category Sales: Technology is the highest-selling category, ahead of Furniture and Office Supplies. Management should investigate the factors driving Technology’s stronger performance and apply successful strategies to other categories.
 9. Profit Margin: Technology has the highest profit margin at roughly 14%, while Furniture is around 7%. Management should review Furniture pricing, costs, and product mix to improve profitability.
 10. Monthly Sales: Sales fluctuate considerably throughout the year, with November and December showing strong sales compared with weaker months such as February. Management should prepare inventory and marketing campaigns ahead of high-demand periods while strengthening weaker months.
+
+## Prompt
+
+Create a 10-slide executive presentation outline from these insights:
+
+1. The company generated around $12.64M in sales and $1.47M in profit, showing good overall performance.
+2. The Consumer segment generated around $6.5M, or 51.48% of total sales, making it the biggest contributor.
+3. Technology has the highest sales and around a 14% profit margin, making it one of the strongest categories.
+4. Furniture has a profit margin of around 7%, which is lower than Technology and Office Supplies.
+5. Sales change throughout the year, with November and December being stronger months and February being one of the weaker months.
+
+Each slide should have a clear one-line title and 3 supporting bullet points, ordered as: Title, Business Problem, Approach, Insight 1, Insight 2, Insight 3, Insight 4, Insight 5, Recommendations, Thank You/Questions.
+
+⸻
+
+## AI Response
+
+Slide 1 — Global Superstore Business Intelligence
+
+* Power BI dashboard project
+* Focus on sales, profit, customers and products
+* TNM Software Solutions Pvt. Ltd.
+
+Slide 2 — Business Problem
+
+* Understand overall business performance
+* Identify the strongest customer and product areas
+* Find opportunities to improve profitability
+
+Slide 3 — Approach
+
+* Used the Global Superstore dataset
+* Cleaned and organized the data for analysis
+* Built a four-page Power BI dashboard
+
+Slide 4 — Strong Overall Performance
+
+* Total sales reached $12.64M
+* Total profit reached $1.47M
+* Focus on maintaining profitable growth
+
+Slide 5 — Consumer Segment Leads Sales
+
+* Consumer generated around $6.5M
+* Consumer represents 51.48% of total sales
+* Focus on retaining and growing this customer segment
+
+Slide 6 — Technology Is a Strong Category
+
+* Technology has the highest sales
+* Profit margin is around 14%
+* Continue investing in this strong category
+
+Slide 7 — Furniture Has Lower Profitability
+
+* Furniture has around a 7% profit margin
+* Its profitability is lower than stronger categories
+* Review pricing and costs to improve margins
+
+Slide 8 — Sales Change During the Year
+
+* Sales vary across different months
+* November and December are stronger periods
+* February is one of the weaker months
+
+Slide 9 — Recommendations
+
+* Focus on Consumer customer retention
+* Improve Furniture profitability
+* Plan marketing and inventory around seasonal demand
+
+Slide 10 — Thank You / Questions
+
+* Thank you for your time
+* Questions and discussion
+* GitHub repository: https://github.com/Rao-Satyajit/AI-Business-Intelligence-Internship.git
