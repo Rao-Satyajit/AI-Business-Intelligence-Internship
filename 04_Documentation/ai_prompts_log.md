@@ -1,6 +1,6 @@
 # AI Prompts Log
-
-## Prompt
+## Data Understanding
+## Prompt 
 
 Act as a Senior Data Analyst. Here are the columns and sample rows from my dataset. Explain what each column likely means from a business perspective, and suggest five business questions this dataset could answer.
 
@@ -30,7 +30,7 @@ Five business questions:
 5. Which products perform the best?
 
 
-
+## Data Quality Triage
 ## Prompt
 
 Act as a Senior Data Analyst. My dataset has: all checked columns show 100% valid values with 0% errors and 0% empty values. Order ID has repeated values, with 673 distinct values and 450 unique values. Sales has no negative values, and Profit contains some negative values. For each issue, suggest whether to remove, fill, or flag the affected rows, and explain the business risk of getting it wrong.
@@ -49,7 +49,7 @@ Based on the data quality checks, I would recommend the following:
 
 5. *Overall recommendation:* The identified values should be reviewed during the cleaning stage rather than automatically removed. The main risk is that removing valid records could lead to inaccurate sales and profit analysis.
 
-
+## Dashboard Layout Planning
 ## Prompt
 
 Design a 4-page Power BI dashboard for a CEO and their team, using these KPIs: Total Sales, Total Profit, Total Orders, Average Order Value, Profit Margin, and these dimensions: Region, Category, Product, Customer, Date. Page 1 is an Executive Summary, Page 2 is Sales Analysis, Page 3 is Customer Insights, Page 4 is Product Performance. For each page, suggest which visuals fit and where they should sit.
@@ -117,7 +117,7 @@ Main question answered: Which products and categories generate the most sales, a
 Overall Dashboard Design
 
 All four pages should use a consistent theme, font style, title format, and visual alignment. KPI cards should be placed near the top of relevant pages so important numbers are immediately visible. Slicers should be placed consistently, and visuals should be aligned neatly to make the dashboard easy for a CEO or manager to understand and use.
-
+## Dashboard Critique 
 ## Prompt
 
 Act as a Senior BI Consultant. Review these four dashboard pages (Executive Summary, Sales Analysis, Customer Insights, Product Performance). Score the overall report out of 10. Identify 5 specific things that are unclear, cluttered, or could confuse a stakeholder, and suggest a concrete fix for each. Then suggest more executive-friendly rewrites for any chart or page title that sounds too technical.
@@ -149,7 +149,7 @@ Executive-Friendly Title Suggestions
 * Total Sales by City → Sales by City
 * Profit Margin % by Category → Profitability by Category
 * Total Sales by Sub-Category → Sales by Sub-Category
-
+## Insight Generation
 ## Prompt
 
 Write ten executive insights across these four dashboard pages. Each insight should name a specific number, a specific trend, and a suggested business action.
@@ -166,7 +166,7 @@ Write ten executive insights across these four dashboard pages. Each insight sho
 8. Category Sales: Technology is the highest-selling category, ahead of Furniture and Office Supplies. Management should investigate the factors driving Technology’s stronger performance and apply successful strategies to other categories.
 9. Profit Margin: Technology has the highest profit margin at roughly 14%, while Furniture is around 7%. Management should review Furniture pricing, costs, and product mix to improve profitability.
 10. Monthly Sales: Sales fluctuate considerably throughout the year, with November and December showing strong sales compared with weaker months such as February. Management should prepare inventory and marketing campaigns ahead of high-demand periods while strengthening weaker months.
-
+## Presentation Outline
 ## Prompt
 
 Create a 10-slide executive presentation outline from these insights:
