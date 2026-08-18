@@ -76,6 +76,10 @@ The dataset contains information about orders, customers, products, regions, sal
 
 ![Product Performance](05_Screenshots/day10_v2_product_performance.png)
 
+## Video Demo
+
+[Watch the BI Dashboard Demo] https://studio.youtube.com/video/KtIZb4D6e7A/edit
+
 ## Business Insights
 
 ### 1. Strong Overall Performance
