@@ -75,3 +75,11 @@ Reflection: Today, I learned how important it is to properly organize and docume
 
 GitHub: Completed and updated README.md, checked the project folders and final deliverables, and prepared the repository for final submission.
 
+### Day-15
+
+Completed Today: I completed the final testing and submission tasks for my AI Business Intelligence Internship project. I tested the Power BI dashboard again, reviewed my GitHub repository with a fresh perspective, recorded a video demonstration of the dashboard and uploaded it as an unlisted YouTube video because the file was too large for GitHub. I also completed my final reflection covering the skills I developed, possible future improvements, and the overall purpose and findings of the project.
+
+Reflection: Today, I learned the importance of testing a project properly before final submission. I also learned how to explain my project clearly through a short video and reflection instead of only showing the technical work. Looking back at the full internship, I now understand the complete process of taking raw data and turning it into a useful business intelligence solution.
+
+GitHub: Completed the final project checks, added the BI demo video link to the README, created final_reflection.md inside 04_Documentation, and prepared the repository for final submission.
+
